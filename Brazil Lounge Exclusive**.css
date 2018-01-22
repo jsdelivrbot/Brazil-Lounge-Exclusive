@@ -628,11 +628,11 @@ div.focused { /* Div is here to override rcs */
     animation: fadein .2s;
 }
 #chat .cm {
-    background: linear-gradient(hsl(271, 45%, 11%), hsl(272, 45%, 11%));
+    background: linear-gradient(hsl(270, 34%, 10%), hsl(271, 31%, 14%));
 }
 #chat .cm.message:nth-child(odd) {
-        background: linear-gradient(273, 45%, 20%), hsla(271, 44%, 19%));
-    box-shadow: inset 1px 1px 0 hsla(275, 18%, 25%);
+        background: linear-gradient(hsla(280, 15%, 45%, 0.3), hsla(275, 20%, 43%, 0.34));
+    box-shadow: inset 1px 1px 0 hsla(275, 49%, 23%, 0.28);
     color: #eee;
 }
 #chat .cm.message .timestamp {
@@ -754,4 +754,24 @@ div.focused { /* Div is here to override rcs */
 #woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
     animation: pulse 1s ease infinite;
 }
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
 
+  50% {
+    transform: scale(1.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+.app-right .friends {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    width: 100%;
+    height: 100%;
+    background: #160d1f;
+}
