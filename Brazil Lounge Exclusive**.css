@@ -60,7 +60,7 @@
     box-shadow: inset 0 0 30px #000;
 }
 .app-header, #app-menu.in-room, #footer, #search, #video-only-dj {
-    background: linear-gradient(hsl(271, 44%, 32%), hsla(360, 36%, 0%, 0.98));
+    background: linear-gradient(hsl(270, 45%, 18%), hsla(360, 36%, 0%, 0.98));
 }
 .app-header {
     box-shadow: 0px 1px 10px #000;
@@ -75,7 +75,7 @@
     box-shadow: 0px -1px 10px #000;
 }
 #footer .chevron:before, #footer .chevron:after {
-    background: hsl(281, 66%, 36%)!important;
+    background: background: hsl(264, 36%, 37%)!important;
 }
 #footer #your-next-media.in-history {
     color: hsl(10,80%,55%);
@@ -111,7 +111,7 @@
     visibility: hidden;
 }
 #playlist-button {
-    background: linear-gradient(hsl(275, 88%, 42%), hsl(271, 80%, 33%));
+    background: linear-gradient(#61438f, #291d34);
 }
 #playlist-import, #playlist-create {
     background: linear-gradient(95deg, hsla(276, 10%, 30%, 1), hsla(285, 10%, 20%, 1));
@@ -624,11 +624,15 @@ div.focused { /* Div is here to override rcs */
     color: #EEE !important;
 }
 /*### [message] ###*/
+}
+#chat .mention .msg {
+    background: hsl(273, 44%, 10%)!important;
+}
 #chat .cm {
     animation: fadein .2s;
 }
 #chat .cm {
-    background: linear-gradient(hsl(270, 34%, 10%), hsl(271, 31%, 14%));
+    background: linear-gradient(hsl(270, 43%, 8%), hsl(272, 44%, 8%));
 }
 #chat .cm.message:nth-child(odd) {
         background: linear-gradient(hsla(280, 15%, 45%, 0.3), hsla(275, 20%, 43%, 0.34));
