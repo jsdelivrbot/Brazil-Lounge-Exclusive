@@ -626,7 +626,7 @@ div.focused { /* Div is here to override rcs */
 /*### [message] ###*/
 }
 #chat .mention .msg {
-     background: linear-gradient(#3d2454, #341f47);
+    background: linear-gradient(to right, rgba(61, 36, 84, 1) 0 100%);
 }
 #chat .cm {
     animation: fadein .2s;
