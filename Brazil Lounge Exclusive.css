@@ -357,7 +357,7 @@
     background: linear-gradient(135deg, hsla(0,0%,10%,.9), hsla(0,0%,5%,.9));
 }
 #vote {
-    box-shadow: 0 0 8px #000;
+    box-shadow: 0 0 0px #000;
     width: 255px !important;
 }
 #app #vote .bottom {
