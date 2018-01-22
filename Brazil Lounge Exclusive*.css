@@ -754,12 +754,4 @@ div.focused { /* Div is here to override rcs */
 #woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
     animation: pulse 1s ease infinite;
 }
-.app-right .friends {
-    position: absolute;
-    top: 0;
-    left: 0;
-    display: none;
-    width: 100%;
-    height: 100%;
-    background: #160d1f;
-}
+
