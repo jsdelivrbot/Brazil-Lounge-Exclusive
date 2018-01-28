@@ -3,4 +3,4 @@
 
 Brazil-Lounge-Exclusive Room Setting
 
-@rcs=https://api.myjson.com/bins/td3ul
+https://rawgit.com/DavidStefansky/Brazil-Lounge-Exclusive/master/Blex.json
