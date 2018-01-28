@@ -4,7 +4,7 @@
     "icon": null,
     "css": "https://rawgit.com/DavidStefansky/Brazil-Lounge-Exclusive/master/Brazil%20Lounge%20Exclusive6.css",
     "rules": {
-        "allowAutorespond": true,
+        "allowAutorespond": false,
         "allowAutowoot": true,
         "allowAutojoin": true,
         "allowAutograb": true,
