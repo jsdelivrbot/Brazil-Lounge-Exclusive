@@ -47,7 +47,6 @@
          "!swap": 3,
          "!ban": 2,
          "!skip": 2,
-         "!skip alerta": 2, 
          "!reload": 3,
          "!add": 2,
          "!afktime": 3,
