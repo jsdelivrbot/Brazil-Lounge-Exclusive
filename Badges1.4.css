@@ -83,3 +83,10 @@
     background-image:    url("https://media.giphy.com/media/26DN1siox0tg74j0A/giphy.gif");
     border-radius: 6px;
 }  
+/*Chuvisco De Dolly*/
+#user-rollover.id-31120629 .badge-box > i.bdg,
+.id-31120629 > .badge-box > i.bdg
+{
+    background-image:    url("https://i.imgur.com/939IE1c.jpg");
+    border-radius: 6px;
+}  
