@@ -142,7 +142,7 @@
     filter: brightness(200%);
 }
 #user-menu .item.selected, #room-settings-menu .item.selected {
-    background: linear-gradient(hsl(271, 48%, 37%), hsl(285, 42%, 27%));
+    background: linear-gradient(hsl(270, 33%, 30%), hsl(270, 35%, 30%));
     box-shadow: inset 0 0 4px 1px hsla(277, 100%, 66%, 0.4);
 }
 #room-settings .general-settings button, #room-settings .general-settings .option.enabled button.off {
@@ -154,7 +154,7 @@
     box-shadow: inset 0 0 2px hsla(0,0%,100%,.5) !important;
 }
 #room-settings .general-settings button.off, #room-settings .general-settings .option.enabled button.on {
-    background: linear-gradient(hsla(269, 50%, 40%, 1), hsla(270, 50%, 30%, 1)) !important;
+    background: linear-gradient(hsla(270, 33%, 30%), hsla(270, 35%, 30%)) !important;
     box-shadow: inset 0 0 2px hsla(0,0%,100%,.5) !important;
 }
 #the-user-profile .notifications.section .row {
