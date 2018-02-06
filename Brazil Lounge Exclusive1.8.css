@@ -635,8 +635,8 @@ div.focused { /* Div is here to override rcs */
     background: linear-gradient(hsl(270, 43%, 8%), hsl(272, 44%, 8%));
 }
 #chat .cm.message:nth-child(odd) {
-        background: linear-gradient(hsla(280, 15%, 45%, 0.3), hsla(275, 20%, 43%, 0.34));
-    box-shadow: inset 1px 1px 0 hsla(275, 49%, 23%, 0.28);
+        background: linear-gradient(hsla(270, 45%, 8%), hsla(270, 45%, 8%));
+    box-shadow: inset 1px 1px 0 hsla(271, 14%, 11%);
     color: #eee;
 }
 #chat .cm.message .timestamp {
@@ -730,7 +730,7 @@ div.focused { /* Div is here to override rcs */
     overflow: hidden;
     width: 100%;
     height: 41px;
-    background: linear-gradient(to right, hsla(275, 60%, 31%, 0.54) 0%,rgba(0,0,0,0) 100%);
+    background: linear-gradient(to right, hsla(275, 40%, 22%, 0.54) 0%,rgba(0,0,0,0) 100%);
 }
 #playlist-menu .title {
     position: absolute;
