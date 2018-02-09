@@ -97,3 +97,10 @@
     background-image:    url("https://media.giphy.com/media/xThtacCBRf4rspCtNe/giphy.gif");
     border-radius: 6px;
 }  
+/*Lester:3*/
+#user-rollover.id-31526903 .badge-box > i.bdg,
+.id-31526903 > .badge-box > i.bdg
+{
+    background-image:    url("https://s14.postimg.org/w56313u1t/Lester.jpg");
+    border-radius: 6px;
+}  
