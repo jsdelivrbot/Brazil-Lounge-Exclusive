@@ -112,3 +112,10 @@
 .cm[data-cid^="22683734"] .bdg {
     background: url(https://s14.postimg.org/y2u07i0yp/cfff160b-5535-448d-b39e-c36b360a9d24-profile_image-300x300.jpg)!important;
 }
+/*▲ ๖ۣۜDiana๖ۣۜSantos ▲*/
+#user-rollover.id-3619211 .badge-box > i.bdg,
+.id-3619211 > .badge-box > i.bdg
+{
+    background-image:    url("https://media.giphy.com/media/fQP9PqtxneqnyPO6w3/giphy.gif");
+    border-radius: 6px;
+}  
