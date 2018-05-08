@@ -125,3 +125,10 @@
     background-image:    url("https://i.imgur.com/DQbcljd.gif");
     border-radius: 6px;
 }  
+/*h2ota*/
+#user-rollover.id-33132266 .badge-box > i.bdg,
+.id-33132266 > .badge-box > i.bdg
+{
+    background-image:    url("https://media.giphy.com/media/5WIMhUaewajGO0y4bH/giphy.gif");
+    border-radius: 6px;
+}  
