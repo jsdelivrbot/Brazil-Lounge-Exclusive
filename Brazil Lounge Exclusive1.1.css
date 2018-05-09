@@ -5,9 +5,10 @@
 #chat .emote .text {
     font-style: normal;
 }
+}
 @media (min-width: 768px)
 .community .community__top {
     padding: 10px 0 20px 0;
     height: 50px;
-    background: linear-gradient(#61438f, #291d34);
+    background: linear-gradient(hsl(271, 44%, 32%), hsla(360, 36%, 0%, 0.98));
 }
