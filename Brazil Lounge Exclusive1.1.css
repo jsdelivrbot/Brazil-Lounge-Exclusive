@@ -1,0 +1,13 @@
+@import "https://rawgit.com/DavidStefansky/Brazil-Lounge-Exclusive/master/Badges2.4.css";
+
+}
+
+#chat .emote .text {
+    font-style: normal;
+}
+@media (min-width: 768px)
+.community .community__top {
+    padding: 10px 0 20px 0;
+    height: 50px;
+    background: linear-gradient(#61438f, #291d34);
+}
