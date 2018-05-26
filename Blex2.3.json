@@ -27,8 +27,8 @@
         "user": null
     },
     "images": {
-        "background": null,
-        "playback": null,
+        "background": "https://cdn.radiant.dj/rcs/bg/2k15sea.jpg",
+        "playback": "https://cdn.radiant.dj/rcs/frames/underwater.png",
         "admin": null,
         "ambassador": null,
         "host": null,
