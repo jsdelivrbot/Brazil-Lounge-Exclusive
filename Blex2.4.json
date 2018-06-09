@@ -2,9 +2,9 @@
     "room": "Brazil-Lounge-Exclusive",
     "author": "Wawel",
     "icon": null,
-    "css": "https://rawgit.com/DavidStefansky/Brazil-Lounge-Exclusive/master/Brazil%20Lounge%20Exclusive2.8.css",
+    "css": "https://rawgit.com/DavidStefansky/Brazil-Lounge-Exclusive/master/Brazil%20Lounge%20Exclusive2.3.css",
     "rules": {
-        "allowAutorespond": true,
+        "allowAutorespond": false,
         "allowAutowoot": true,
         "allowAutojoin": false,
         "allowAutograb": true,
