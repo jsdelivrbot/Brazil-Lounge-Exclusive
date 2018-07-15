@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "https://i.imgur.com/QOWwRmx.gifv",
-        "playback": "https://i.imgur.com/wq3B8De.png",
+        "playback": null,
         "admin": null,
         "ambassador": null,
         "host": null,
